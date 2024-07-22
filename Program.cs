@@ -1,7 +1,6 @@
 ﻿///////////////////////////////////////////////////
-// Authored by: Ava Dennis and Lotanna Akukwe
-// Class: CS-374
-// Professor: Pete Tucker
+// Authored by: Lotanna Akukwe
+// My Perfect State
 // Date: 19th of May, 2023
 //////////////////////////////////////////////////
 using System;
