@@ -3,6 +3,8 @@
 ## Project Overview
 **My Perfect State** is an interactive C# application that connects to a MySQL database to analyze and query demographic, income, education, and marriage statistics for U.S. states. The program offers users a quiz-style interface to explore state statistics and execute predefined SQL queries.
 
+In the United States, many people find it ​difficult to decide the best place to live. ​Despite the abundance of data, people find it ​hard to filter this information to their ​personal preferences. This project examined data correlations between age ​groups, marriage/divorce rates, household ​income, poverty levels, and more, by ​cleaning data, transporting it to MySQL, and ​connecting it to C#. As a result, users can input their data and receive ​feedback on the best US state to live in based ​on their profile.
+
 ## Key Features
 - **Interactive Quiz:** Users can answer quiz questions about U.S. state statistics.
 - **SQL Query Execution:** Run detailed queries on population, income, education, and marriage data.
@@ -87,25 +89,6 @@ Utah                    | 3,205,958            | 85,000                | 3.1
 ## Code Structure
 - `Program.cs`: Main program logic and SQL query execution.
 - **SQL Queries:** Predefined in individual methods for modularity and reusability.
-
-## Contributing
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature description"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
 - **Lotanna Akukwe** 
