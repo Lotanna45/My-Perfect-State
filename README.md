@@ -91,4 +91,5 @@ Utah                    | 3,205,958            | 85,000                | 3.1
 - **SQL Queries:** Predefined in individual methods for modularity and reusability.
 
 ## Author
-- **Lotanna Akukwe** 
+- **Lotanna Akukwe**
+- **Ava Dennis**
