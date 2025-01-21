@@ -85,7 +85,7 @@ namespace Downloads
         //Void function that runs the sql query and gets the results
         static void EX0F_01(){
            // MySqlConnection conn;
-            string myConnectionString = "server=127.0.0.1;uid=root;pwd=mySqu1rrel*;database=new_state_stats";
+            string myConnectionString = "server="";uid=root;pwd="";database=new_state_stats";
 
             //SQL query
             string sql_EX05_01 = "SELECT  rt.name_of_region, ps.`Total Population`, ibs.HouseholdIncome, hs.AverageHouseholdSize  " +
